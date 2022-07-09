@@ -1,0 +1,63 @@
+.url-text {
+    color: #444444;
+}
+
+body {
+    margin: 0;
+    background: url('../img/pattern.png');
+    font-family: Tahoma;
+    line-height: 1.5;
+}
+
+.card {
+    background-color: white;
+    padding: 18px;
+    width: 400px;
+    margin: 30px auto;
+    box-shadow: 0 5px 10px #ccc;
+    border-radius: 10px;
+}
+
+.card-photo {
+    margin: 0 auto;
+    display: block;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.card-title {
+    font-size: 20px;
+    text-align: center;
+    color: #442d43;
+}
+
+.card-bio {
+    font-size: 17px;
+}
+
+.basic-text {
+    color: #444444;
+}
+
+.project-subtitle {
+    font-size: 21px;
+    color: #442d43;
+    text-align: center;
+}
+
+.project-subtitle-text {
+    font-size: 16px;
+    color: #2b2725;
+}
+
+.list {
+    font-size: 17px;
+    padding-left: 0;
+    list-style-position: inside;
+}
+
+.telegram-img {
+    width: 15px;
+    height: 15px;
+}
